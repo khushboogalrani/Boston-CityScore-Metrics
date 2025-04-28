@@ -31,7 +31,7 @@ This project analyzes Boston's CityScore dataset to evaluate the city's performa
 - Tools: **Excel**, **Tableau (optional if added later)**
 
 ## Project Deliverables
-- 📄 Written Analysis Report: [Analysis of CityScore Metrics in Boston](link-to-docx-or-pdf-if-uploaded-on-GitHub)
+- 📄 Written Analysis Report: [Analysis of CityScore Metrics in Boston](https://github.com/khushboogalrani/Boston-CityScore-Metrics/blob/main/Analysis%20of%20CityScore%20Metrics%20in%20Boston.docx)
 
 ## Future Work
 - Build a dynamic Tableau dashboard for interactive metric exploration.
